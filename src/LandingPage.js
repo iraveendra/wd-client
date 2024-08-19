@@ -2,7 +2,7 @@ import React from 'react';
 import './LandingPage.css';
 import logo from './weather-dashboard-logo.png'; // Adjust the path as needed
 
-const LandingPage = () => (
+const LandingPage = () => ( 
   <div className="landing-page">
     <div className="left-side">
       <div className="logo"></div>
